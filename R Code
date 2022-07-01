@@ -16,7 +16,7 @@ pacman::p_load(ggpubr)
 
 
 #data read and preprocessing
-RPMD <- read.delim("C:/Users/Sugandh Sinha/Desktop/RPMD.txt")
+RPMD <- read.delim(//Read "RPMD Speaker Score Data"//)
 RPMD[,5:9] <- sapply(RPMD[,5:9], as.numeric)
 par(mar = c(5,5,3,1))
 RPMD_R <- RPMD[,5:9]
@@ -49,7 +49,7 @@ Aggregate_Correlation = Aggregate_Correlation/(rnds-1)
 
 
 #Creating team speaks vector 
-Break<- read.delim("C:/Users/Sugandh Sinha/Desktop/RPMD Team.txt")
+Break<- read.delim(//Read "RPMD Team Score Data"//)
 cols = ncol(Break)
 rows = nrow(Break)
 point_df = data.frame(Break$Spk)
