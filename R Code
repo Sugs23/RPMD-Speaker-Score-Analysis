@@ -1,0 +1,108 @@
+# INSTALL AND LOAD PACKAGES ################################
+
+library(datasets)  # Load base packages manually
+
+# Installs pacman ("package manager") if needed
+if (!require("pacman")) install.packages("pacman")
+
+# Use pacman to load add-on packages as desired
+pacman::p_load(pacman, rio) 
+pacman::p_load(ggpubr)
+
+
+
+##Speaks correlation
+#.......................
+
+
+#data read and preprocessing
+RPMD <- read.delim("C:/Users/Sugandh Sinha/Desktop/RPMD.txt")
+RPMD[,5:9] <- sapply(RPMD[,5:9], as.numeric)
+par(mar = c(5,5,3,1))
+RPMD_R <- RPMD[,5:9]
+RPMD_R[is.na(RPMD_R)] <- 75
+
+#Correlation matrix
+scale(RPMD_R)
+round_speak_cor = cor(RPMD_R)
+
+#Cumulative correlation
+rnds = nrow(round_speak_cor)
+Aggregate_Correlation = 0.0
+for(i in 1:(rnds-1))
+{
+  speak = 0.0
+  for(j in (i+1):rnds)
+  {
+    num = round_speak_cor[j,j-i]
+    speak = speak + num
+  }
+  Aggregate_Correlation = Aggregate_Correlation + speak/(2^(i-1))
+}
+Aggregate_Correlation = Aggregate_Correlation/(rnds-1)
+
+
+
+
+##Break Consistency
+#.......................
+
+
+#Creating team speaks vector 
+Break<- read.delim("C:/Users/Sugandh Sinha/Desktop/RPMD Team.txt")
+cols = ncol(Break)
+rows = nrow(Break)
+point_df = data.frame(Break$Spk)
+
+#Accommodating for teams skipping rounds
+point_df$n = ifelse(Break$Spk <= 170 & Break$Spk >= 140, Break$Spk*5, Break$Spk) 
+point_df$n1 = ifelse(point_df$n <= 340 & point_df$n >= 280, point_df$n*2.5, point_df$n)
+point_df$n2 = ifelse(point_df$n1 <= 510 & point_df$n1 >= 420, point_df$n1*1.66, point_df$n1)
+point_df$n3 = ifelse(point_df$n2 <= 680 & point_df$n2 >= 560, point_df$n2*1.25, point_df$n2)
+point <- point_df$n3
+
+#Calculating mismatch between position and speaks
+count = 0
+for(i in 1:(rows-1))
+{
+  #print(i)
+  #print(point[i])
+  for(j in i+1:(rows-i))
+  {
+    #print(paste(j," ",point[i], "  ", point[j]))
+    if(point[i]<point[j])
+    {
+      count=count+1;
+    }
+  }
+}
+tota = (rows-1)*(rows)/2
+Break_Consistency = (tota-count)/(tota)
+
+
+
+##Saving to .txt file
+#.........................
+
+fileConn<-file("result.txt")
+writeLines(c(paste("Speaks Correlation: ",Aggregate_Correlation),
+             paste("TeamRank-Points Consistency: ",Break_Consistency)
+             ), fileConn)
+close(fileConn)
+
+
+
+
+
+## CLEAN UP 
+#.....................
+
+# Clear environment
+#rm(list = ls()) 
+
+# Clear packages
+#p_unload(all)  
+
+# Clear console
+#cat("\014")  
+
