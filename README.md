@@ -1,7 +1,7 @@
 # Speaker-Score-Analysis
 Debate Speaker Score Analysis
 
-This R code is highly specific and has very narrow usage. It is used to access speaker scoring consistency in parliamentary debate tournaments.
+This R code is highly specific and has very narrow usage. It is used to assess speaker scoring consistency in parliamentary debate tournaments.
 It was made on RPMD debate data (link: https://rpmd2021.calicotab.com/rpmd21/).
 For using on any other tourney, data preprocessing and cleaning will be required.
 
