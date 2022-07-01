@@ -1,0 +1,118 @@
+Rk	team	categories	R1	R2	R3	R4	R5	Pts	Spk	1sts	2nds
+1	GLC golden Brothers/lovers/farto		1st	1st	1st	2nd	1st	14	804	4	1
+2	Auckland A		1st	1st	1st	1st	2nd	14	794	4	1
+3	Indus Water Treaty		1st	4th	1st	1st	1st	12	784	4	0
+4	GLC MC		1st	1st	2nd	3rd	1st	12	779	3	1
+5	SLSP Y	Novice	1st	2nd	1st	2nd	2nd	12	774	2	3
+6	Ed Sheeran Returns June 25th		—	1st	1st	1st	1st	12	633	4	0
+7	Maier-Gant/Wikramanayake		1st	1st	3rd	1st	3rd	11	799	3	0
+8	LSE Calling		1st	2nd	1st	4th	1st	11	783	3	1
+9	UST CH		1st	3rd	3rd	1st	1st	11	780	3	0
+10	Vellore A		1st	2nd	2nd	2nd	2nd	11	780	1	4
+11	Angry Feminist Type		2nd	1st	1st	1st	4th	11	778	3	1
+12	Smol Debaters Big Impacts		2nd	2nd	1st	2nd	2nd	11	777	1	4
+13	BITS H A		1st	1st	2nd	4th	1st	11	774	3	1
+14	IITB M		1st	2nd	2nd	1st	3rd	11	768	2	2
+15	Good Cop Bad Cop		2nd	1st	4th	2nd	1st	10	777	2	2
+16	Champagne Socialists		1st	1st	4th	1st	3rd	10	774	3	0
+17	Knives Out		3rd	1st	4th	1st	1st	10	773	3	0
+18	SXC DD		1st	2nd	2nd	1st	4th	10	773	2	2
+19	High BP		3rd	1st	1st	3rd	2nd	10	772	2	1
+20	Munnabhai mbbs	Novice	1st	4th	2nd	1st	2nd	10	768	2	2
+21	Honey Mustard		3rd	1st	—	1st	1st	10	613	3	0
+22	2BrokeGirls	Novice	—	3rd	1st	1st	1st	10	610	3	0
+23	MH		2nd	1st	3rd	3rd	2nd	9	773	1	2
+24	The simp sons		2nd	1st	4th	1st	3rd	9	772	2	1
+25	Tsk Tsk		2nd	2nd	1st	2nd	4th	9	772	1	3
+26	IITB D		1st	2nd	3rd	1st	4th	9	771	2	1
+27	We Have Our Submissions Next Week		4th	1st	1st	4th	1st	9	770	3	0
+28=	SXC CM		2nd	1st	2nd	3rd	3rd	9	769	1	2
+28=	Bite is worse than my BArc		1st	3rd	3rd	2nd	2nd	9	769	1	2
+30	IIT-D		2nd	4th	1st	1st	3rd	9	765	2	1
+31	Troy and Abed Debating		2nd	1st	4th	1st	3rd	9	764	2	1
+32	Chewbacca Loves Chole		2nd	4th	2nd	2nd	1st	9	762	1	3
+33	trying to break, but not emotionall		1st	3rd	2nd	3rd	2nd	9	761	1	2
+34	Broke but Broke		2nd	2nd	3rd	2nd	2nd	9	759	0	4
+35	Team Blabbers		1st	4th	1st	4th	1st	9	758	3	0
+36	Panic! At The Discord		1st	3rd	3rd	3rd	1st	9	757	2	0
+37	KitKat	Novice	—	1st	1st	4th	1st	9	621	3	0
+38	pls help		—	2nd	1st	2nd	2nd	9	614	1	3
+39	Second Cousins		2nd	3rd	1st	2nd	4th	8	776	1	2
+40	IITB B		3rd	1st	1st	3rd	4th	8	769	2	0
+41	Am I Audible?		3rd	1st	1st	4th	3rd	8	768	2	0
+42	SLSP X		2nd	3rd	1st	3rd	3rd	8	766	1	1
+43	[REDACTED]		1st	4th	2nd	4th	1st	8	763	2	1
+44	Syriasly Speaking	Novice	2nd	2nd	2nd	2nd	4th	8	762	0	4
+45	SXC AW	Novice	2nd	2nd	2nd	4th	2nd	8	760	0	4
+46	IIT KGP A	Novice	3rd	2nd	2nd	2nd	3rd	8	759	0	3
+47	Barbie Girls	Novice	4th	1st	3rd	1st	3rd	8	755	2	0
+48	IITB S		4th	1st	2nd	3rd	2nd	8	755	1	2
+49	Johnlock	Novice	3rd	3rd	2nd	3rd	1st	8	755	1	1
+50	J.A.W.S.	Novice	3rd	1st	4th	2nd	2nd	8	754	1	2
+51	B1G1	Novice	4th	3rd	2nd	2nd	1st	8	751	1	2
+52	Silver Lining	Novice	3rd	4th	1st	3rd	1st	8	747	2	0
+53	We don't know how we got in ?		1st	3rd	4th	2nd	2nd	8	746	1	2
+54	Get Vaccinated		1st	1st	4th	3rd	4th	7	771	2	0
+55	Losers	Novice	2nd	4th	1st	4th	2nd	7	761	1	2
+56	MUN Rejects		4th	1st	2nd	3rd	3rd	7	761	1	1
+57	GC		3rd	2nd	2nd	2nd	4th	7	760	0	3
+58	SXUK 1	Novice	2nd	3rd	4th	2nd	2nd	7	756	0	3
+59	Aloo chutney	Novice	3rd	3rd	3rd	2nd	2nd	7	755	0	2
+60	IIT KGP C		2nd	3rd	3rd	2nd	3rd	7	754	0	2
+61	No shit Sherlock	Novice	3rd	4th	2nd	1st	3rd	7	753	1	1
+62	The Devils of Paradis		3rd	3rd	1st	3rd	3rd	7	753	1	0
+63	KC-A		1st	3rd	2nd	3rd	4th	7	751	1	1
+64	Broca's Aphasia	Novice	4th	2nd	4th	1st	2nd	7	746	1	2
+65	We're NoWise	Novice	3rd	2nd	4th	3rd	1st	7	746	1	1
+66	Kuch khabar nahi		3rd	2nd	4th	1st	3rd	7	745	1	1
+67	Sadputins	Novice	2nd	4th	3rd	3rd	1st	7	743	1	1
+68	Bad Batch	Novice	—	2nd	2nd	1st	4th	7	600	1	2
+69	Matru ka mandola		3rd	1st	3rd	3rd	4th	6	761	1	0
+70	IIT KGP B	Novice	2nd	4th	2nd	2nd	4th	6	761	0	3
+71	Team Seychelles		2nd	2nd	3rd	4th	3rd	6	761	0	2
+72	HALF TICKET	Novice	2nd	4th	2nd	3rd	3rd	6	756	0	2
+73	Aesthete	Novice	3rd	3rd	3rd	1st	4th	6	754	1	0
+74	NArcos: Chino Latino	Novice	4th	3rd	4th	1st	2nd	6	752	1	1
+75	As flies to wanton boys		2nd	1st	4th	4th	3rd	6	751	1	1
+76	LSR 1		1st	4th	4th	4th	1st	6	749	2	0
+77	Ethereum	Novice	4th	3rd	2nd	4th	1st	6	748	1	1
+78	Hindu		2nd	3rd	3rd	2nd	4th	6	748	0	2
+79	Aan men at work	Novice	2nd	3rd	3rd	3rd	3rd	6	747	0	1
+80	Presi A	Novice	4th	4th	1st	3rd	2nd	6	742	1	1
+81	Pulverizers	Novice	4th	4th	2nd	2nd	2nd	6	742	0	3
+82	LSR - 2	Novice	4th	2nd	2nd	4th	2nd	6	738	0	3
+83	1985	Novice	4th	3rd	3rd	3rd	1st	6	736	1	0
+84	Breaking bad	Novice	4th	4th	1st	1st	4th	6	728	2	0
+85	Legendary Pokemons		1st	2nd	3rd	4th	—	6	617	1	1
+86	Delegates of Gibooty		3rd	3rd	1st	4th	4th	5	754	1	0
+87	L'Arc-en-ciel	Novice	4th	2nd	4th	1st	4th	5	748	1	1
+88	Two Little Englishmen		1st	4th	3rd	3rd	4th	5	748	1	0
+89	TBD		3rd	3rd	3rd	2nd	4th	5	745	0	1
+90	Peraltiago	Novice	3rd	2nd	4th	3rd	3rd	5	743	0	1
+91	Men on a Mission	Novice	2nd	2nd	4th	4th	3rd	5	741	0	2
+92	Logos	Novice	3rd	4th	3rd	2nd	3rd	5	735	0	1
+93	Swing 3		—	2nd	1st	—	—	5	308	1	1
+94	Sliver bullet	Novice	3rd	3rd	2nd	4th	4th	4	749	0	1
+95	Tokyo Ghouls	Novice	4th	3rd	3rd	4th	2nd	4	743	0	1
+96	SG-AR	Novice	4th	3rd	4th	2nd	3rd	4	739	0	1
+97	DDUC	Novice	3rd	4th	4th	1st	4th	4	738	1	0
+98	The Arguementals		2nd	4th	4th	4th	2nd	4	735	0	2
+99	Aam Admi Presi	Novice	1st	4th	3rd	4th	—	4	593	1	0
+100	Till Logos do us apart	Novice	4th	2nd	3rd	4th	4th	3	742	0	1
+101	Heisenberg	Novice	4th	4th	3rd	4th	2nd	3	737	0	1
+102	Team Hurricane	Novice	3rd	3rd	4th	4th	3rd	3	736	0	0
+103	Ghostriders 💀💀	Novice	4th	4th	1st	4th	4th	3	727	1	0
+104	When to break	Novice	4th	4th	3rd	3rd	3rd	3	723	0	0
+105	Goopy gyne Bagha byne	Novice	4th	2nd	3rd	4th	—	3	597	0	1
+106	SGPHSDC-A²	Novice	4th	4th	2nd	3rd	—	3	586	0	1
+107	Hips don't lie		4th	1st	4th	—	—	3	452	1	0
+108	Swing 1		—	—	—	—	1st	3	152	1	0
+109	Oops I did it again	Novice	4th	4th	4th	2nd	—	2	593	0	1
+110	Ethically a 10$ Bribe	Novice	3rd	4th	4th	3rd	—	2	589	0	0
+111	This is Spar-ta		4th	2nd	4th	—	—	2	458	0	1
+112	Not Up for Debate!	Novice	3rd	3rd	4th	—	—	2	443	0	0
+113	Statement makers	Novice	4th	4th	3rd	4th	4th	1	709	0	0
+114	Break Ke Baad		3rd	—	—	—	—	1	153	0	0
+115	The Targaryens	Novice	4th	—	—	—	—	0	143	0	0
+116	Swing 2		—	—	—	—	4th	0	142	0	0
+117	Swing 4		—	—	4th	—	—	0	141	0	0
