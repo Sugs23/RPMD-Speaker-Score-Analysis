@@ -17,7 +17,7 @@ Being in a round where all debaters are good also means that the individual spea
 As this is done more times, the scores of good debaters shows a slow albeit positive trend and vice versa for bad debaters.
 There needs to be a positive high correlation between subsequent rounds if the judges score the participants perfectly.
 
-Working:
+WORKING:
 
 FUNCTION 1
 The code calculates a correlation matrix that has correlation coefficients between the speaker scores awarded in all the rounds.
@@ -33,6 +33,8 @@ This code calculates another index to account for every time a team ranks higher
 If the result is lower it means that teams with low speaker points are getting higher team points .
 which means judges from lower rooms are marking teams in those rooms higher and vice versa
 
+FUNCTION 3
+The code creates a .txt file and saves the output there.
 
 Assumptions:
 1) Debater will have uniform debating skills throughout the tournament 
