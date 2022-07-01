@@ -72,7 +72,7 @@ for(i in 1:(rows-1))
     #print(paste(j," ",point[i], "  ", point[j]))
     if(point[i]<point[j])
     {
-      count=count+1;
+      count=count+0.5*sqrt(j-i) + 0.2
     }
   }
 }
